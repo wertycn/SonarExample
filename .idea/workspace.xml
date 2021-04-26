@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53d6c619-f78a-4c46-8ef5-c003402dcb6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/module1/src/main/java/com/acme/module1/Module1.java" beforeDir="false" afterPath="$PROJECT_DIR$/module1/src/main/java/com/acme/module1/Module1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="D:\dev\java\sonar-scanning-examples\sonarqube-scanner-maven\maven-multimodule\tests\target" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1oyXWHP6mV0AwPyR3K147M82Ut4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/target" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1996" y="0" key="#Editor_|_Color_Scheme_|_General" timestamp="1618976379820">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1996" y="0" key="#Editor_|_Color_Scheme_|_General/0.0.1440.860/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618976379820" />
+    <state x="2127" y="236" key="FileChooserDialogImpl" timestamp="1618981117407">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2127" y="236" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618981117407" />
+    <state x="1784" y="83" key="SettingsEditor" timestamp="1618983411851">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1784" y="83" key="SettingsEditor/0.0.1440.860/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618983411851" />
+    <state x="2031" y="210" width="738" height="660" key="find.popup" timestamp="1614260634769">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2031" y="210" width="738" height="660" key="find.popup/0.0.1440.860/1440.0.1920.1080@1440.0.1920.1080" timestamp="1614260634769" />
+    <state x="1972" y="241" key="run.anything.popup" timestamp="1618981072762">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1972" y="241" key="run.anything.popup/0.0.1440.860/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618981072762" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="D:\dev\java\sonar-scanning-examples\sonarqube-scanner-maven\maven-multimodule\tests\target\jacoco.exec" NAME="jacoco.exec" MODIFIED="1618975876460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

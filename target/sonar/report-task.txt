@@ -1,0 +1,7 @@
+projectKey=org.sonarqube:sonarscanner-maven-aggregate
+serverUrl=http://draw.werty.cn:1980
+serverVersion=7.9.2.30863
+branch=master
+dashboardUrl=http://draw.werty.cn:1980/dashboard?id=org.sonarqube%3Asonarscanner-maven-aggregate&branch=master
+ceTaskId=AXj336Pujccclu00CS2i
+ceTaskUrl=http://draw.werty.cn:1980/api/ce/task?id=AXj336Pujccclu00CS2i

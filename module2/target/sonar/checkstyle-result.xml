@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.40">
+<file name="D:\dev\java\sonar-scanning-examples\sonarqube-scanner-maven\maven-multimodule\module2\src\main\java\com\acme\module2\Module2.java">
+</file>
+</checkstyle>
